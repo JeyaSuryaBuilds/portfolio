@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeya-surya-portfolio.vercel.app/sitemap.xml
+Sitemap: https://jeyasurya-portfolio.vercel.app/sitemap.xml
